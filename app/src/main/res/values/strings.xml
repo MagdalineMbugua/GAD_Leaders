@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GAD Leaders</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on Github (link)</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes">Yes</string>
+    <string name="submission_successful">Submission successful</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="john_doe">John Doe</string>
+    <string name="_223_learning_hours_kenya">223 learning hours,Kenya.</string>
+    <string name="_300_skill_iq_score_kenya">300 skill IQ score, Kenya</string>
+</resources>
