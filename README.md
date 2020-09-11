@@ -9,3 +9,4 @@ Project for the GADS2020 program.
 <img src ="Screenshots/fourth_screen.jpg">
 <img src ="Screenshots/fifth_screen.jpg">
 <img src ="Screenshots/sixth_screen.jpg">
+<img src ="Screenshots/seventh_screen.jpg">
